@@ -1,6 +1,6 @@
 {
   "_from": "@router360/react-native-adcolony",
-  "_id": "@router360/react-native-adcolony@1.0.16",
+  "_id": "@router360/react-native-adcolony@1.0.17",
   "_inBundle": false,
   "_integrity": "sha512-FTOaVwM2tl0VNZD34iHJZ4x7cCdhO5ThSdjtPxC2Sl9Hjp7iia7QNFdwvUAQHNb8E++NhT9eDusNZ9RpoPvlRQ==",
   "_location": "/@router360/react-native-adcolony",
@@ -29,7 +29,7 @@
     "email": "yourname@email.com"
   },
   "bugs": {
-    "url": "https://github.com/github_account/react-native-adcolony/issues"
+    "url": "https://github.com/angelobl/react-native-adcolony/issues"
   },
   "bundleDependencies": false,
   "deprecated": false,
@@ -38,7 +38,7 @@
     "react": "^16.9.0",
     "react-native": "^0.61.5"
   },
-  "homepage": "https://github.com/github_account/react-native-adcolony#readme",
+  "homepage": "https://github.com/angelobl/react-native-adcolony#readme",
   "keywords": [
     "react-native"
   ],
@@ -52,12 +52,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-adcolony.git",
-    "baseUrl": "https://github.com/github_account/react-native-adcolony"
+    "url": "git+https://github.com/angelobl/react-native-adcolony.git",
+    "baseUrl": "https://github.com/angelobl/react-native-adcolony"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "title": "React Native Adcolony",
-  "version": "1.0.16"
+  "version": "1.0.17"
 }
