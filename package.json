@@ -1,6 +1,6 @@
 {
   "_from": "@router360/react-native-adcolony",
-  "_id": "@router360/react-native-adcolony@1.0.17",
+  "_id": "@router360/react-native-adcolony@1.0.18",
   "_inBundle": false,
   "_integrity": "sha512-FTOaVwM2tl0VNZD34iHJZ4x7cCdhO5ThSdjtPxC2Sl9Hjp7iia7QNFdwvUAQHNb8E++NhT9eDusNZ9RpoPvlRQ==",
   "_location": "/@router360/react-native-adcolony",
@@ -59,5 +59,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "title": "React Native Adcolony",
-  "version": "1.0.17"
+  "version": "1.0.18"
 }
