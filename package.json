@@ -59,5 +59,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "title": "React Native Adcolony",
-  "version": "1.0.18"
+  "version": "1.0.19"
 }
